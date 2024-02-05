@@ -11,5 +11,5 @@ Por fim basta chamar o metodo:
  
   loaded_transform_and_predict(dados)
 
-Dentro do metodo estão as transformações necessarias e o modelo treinado
+Dentro do metodo estão as transformações necessarias e o modelo treinado,então ele retorna o valor previsto
 
