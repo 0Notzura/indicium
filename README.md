@@ -1,5 +1,5 @@
 # indicium
-repositori para o processo seletivo
+
 Para executar é necessario ter o python 3 e o pip instalados.Tendo eles deve-se baixar as bibliotecas com:
   pip install -r caminho/requisitos.txt
   
